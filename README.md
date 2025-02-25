@@ -47,6 +47,24 @@ The dataset was **generated using Python (Faker library)** to simulate **real-wo
 
 ---
 
+## 🖌️ Mockups & Dashboard Design (Draw.io)
+Before building the dashboard in **Tableau**, **mockups** were created using **Draw.io ([diagrams.net](https://app.diagrams.net/))**. These mockups helped in **structuring the layout, aligning KPIs, and designing an intuitive user experience**.
+
+### **📝 Why Use Draw.io for Mockups?**
+✔ **Plan dashboard layout** before implementation.  
+✔ **Ensure clear data visualization** by pre-defining key components.  
+✔ **Organize sections effectively (Summary, Demographics, Salary, Employee Records).**  
+✔ **Improve dashboard usability** by iterating designs before final development.  
+
+### **📌 Mockup Preview**
+Below is an early wireframe of the **HR Dashboard**, designed in **Draw.io** before being built in Tableau.
+
+![HR Dashboard Mockup](mockup_hr_dashboard.png)
+
+📂 **Mockup File** – The editable Draw.io file is included in the repository under `mockups/HR_Dashboard_Mockup.drawio` for further modifications.
+
+---
+
 ## 📊 Dashboard Preview
 ### **Summary View**
 ![HR Dashboard Overview](dashboard_overview.png)
@@ -68,11 +86,10 @@ The dataset was **generated using Python (Faker library)** to simulate **real-wo
 - **Python (Faker, Pandas, NumPy)** – Synthetic data generation  
 - **Excel/CSV** – Data storage  
 - **GitHub** – Project hosting  
+- **Draw.io (Diagrams.net)** – Mockup & dashboard wireframe design  
 
 ---
 
 ## 🚀 How to Use This Project
 ### **1️⃣ Access the Dashboard**
-🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/views/HRDashboard_17405201411940/HRSummary?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
-
-
+🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/your-dashboard-link)**  
