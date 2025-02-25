@@ -59,18 +59,18 @@ Before building the dashboard in **Tableau**, **mockups** were created using **D
 ### **📌 Mockup Preview**
 Below is an early wireframe of the **HR Dashboard**, designed in **Draw.io** before being built in Tableau.
 
-![HR Dashboard Mockup](mockup_hr_dashboard.png)
+![HR Dashboard Mockup](Mockupdraw.io.png)
 
-📂 **Mockup File** – The editable Draw.io file is included in the repository under `mockups/HR_Dashboard_Mockup.drawio` for further modifications.
+📂 **Mockup File** – The editable Draw.io file is included in the repository under `mockups.drawio` for further modifications.
 
 ---
 
 ## 📊 Dashboard Preview
 ### **Summary View**
-![HR Dashboard Overview](dashboard_overview.png)
+![HR Dashboard Overview](HR_Dashboard1.png)
 
 ### **Employee Records View**
-![HR Dashboard Details](dashboard_records.png)
+![HR Dashboard Details](HR_Dashboard2.png)
 
 ---
 
@@ -92,4 +92,4 @@ Below is an early wireframe of the **HR Dashboard**, designed in **Draw.io** bef
 
 ## 🚀 How to Use This Project
 ### **1️⃣ Access the Dashboard**
-🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/your-dashboard-link)**  
+🔗 **[View the Live Tableau Dashboard](https://public.tableau.com/views/HRDashboard_17405201411940/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
